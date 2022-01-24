@@ -1,4 +1,5 @@
-# Starting Vue Js author M Bilal Allah Dita 
+# Starting Vue Js author 
+**M Bilal Allah Ditta **
 
 ## Project setup
 ```
